@@ -1,8 +1,10 @@
 # wp
 working paper
+
 Title: SPT-Txn Framework: Sovereign Policy Tokens with TBAC Enforcement, ZK Privacy, Biometric Uniqueness, and Multi-Chain Deployment 
 Authors: Rudolf J. Coetzee
 Submitted to ePrint https://eprint.iacr.org/
+
 It might take 72 hours to become public from today 03.03.2026
 
 Sovereign Policy Tokens • TBAC Capability Enforcement • ZK Privacy • Biometric Uniqueness • Transaction Chain Integrity • Multi-Chain Deployment
