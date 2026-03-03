@@ -1,4 +1,4 @@
-# wp
+# SPT-Txn-Framework
 working paper
 
 Title: SPT-Txn Framework: Sovereign Policy Tokens with TBAC Enforcement, ZK Privacy, Biometric Uniqueness, and Multi-Chain Deployment 
